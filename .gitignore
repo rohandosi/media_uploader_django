@@ -1,2 +1,4 @@
-db.dqlite3
-.idea
+ .idea
+db.sqlite3
+
+
